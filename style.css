@@ -30,8 +30,14 @@
     display: block;
     empty-cells: hide;
     float: inline-end;
-    
 }
-/*.end { 
-    margin: 30px;
-}*/
+a:link{
+    color: white;
+}
+a:visited{
+    color: red;
+}
+
+.end:hover { 
+    transform:scale(1.2);
+}
