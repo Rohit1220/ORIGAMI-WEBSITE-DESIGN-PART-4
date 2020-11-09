@@ -37,7 +37,21 @@ a:link{
 a:visited{
     color: red;
 }
-
-.end:hover { 
+.end1:hover { 
+    transform:scale(1.2);
+}
+.end2:hover { 
+    transform:scale(1.2);
+}
+.end3:hover { 
+    transform:scale(1.2);
+}
+.end4:hover { 
+    transform:scale(1.2);
+}
+.end5:hover { 
+    transform:scale(1.2);
+}
+.end5:hover { 
     transform:scale(1.2);
 }
